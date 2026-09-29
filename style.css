@@ -9,3 +9,10 @@
     color: white;
     background-color: black;
 }
+
+button{
+    padding: 12px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
